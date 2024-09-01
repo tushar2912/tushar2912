@@ -1,7 +1,7 @@
-👋 Hi, I’m @tushar2912
-👀 I’m interested in Development
-🌱 I’m currently learning AWS
-💼 I’m focused on advancing my career and expanding my expertise in the software field.
+- 👋 Hi, I’m @tushar2912.
+- 👀 I’m interested in Development.
+- 🌱 I’m currently learning AWS.
+- 💼 I’m focused on advancing my career and expanding my expertise in the software field.
 
 
 <!---
