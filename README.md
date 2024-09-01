@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tushar2912
-- 👀 I’m interested in Developement
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to start my career in software field
+👋 Hi, I’m @tushar2912
+👀 I’m interested in Development
+🌱 I’m currently learning AWS
+💼 I’m focused on advancing my career and expanding my expertise in the software field.
 
 
 <!---
